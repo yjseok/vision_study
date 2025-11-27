@@ -41,7 +41,8 @@ z_ℓ = MLP(LN(z'_ℓ)) + z'_ℓ            (MLP)`
 
 ### 1.4 모델 변형
 
-![image.png](attachment:214d1b67-aab2-4f94-8795-2ff703dfd6b0:image.png)
+<img width="727" height="122" alt="image (1)" src="https://github.com/user-attachments/assets/ce195278-56ef-4a57-9853-24effb74ce03" />
+
 
 **명명 규칙**: ViT-L/16 = Large 모델, 16×16 패치 크기
 
