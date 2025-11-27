@@ -17,10 +17,10 @@ YOLO는 이미지에서 바운딩 박스 좌표와 클래스 확률을 하나의
 • 
 그리드 시스템: 입력 이미지를 $S \times S$ 크기의 그리드(Grid)로 나눕니다 (PASCAL VOC의 경우 $S=7$)
 
-    ◦ 객체의 **중심(center)**이 포함된 그리드 셀(Grid Cell)이 해당 객체 탐지를 담당합니다4.
+    ◦ 객체의 **중심(center)**이 포함된 그리드 셀(Grid Cell)이 해당 객체 탐지를 담당합니다.
 
 • 
-출력 예측 (Output Prediction): 각 그리드 셀은 다음 세 가지를 예측합니다5:
+출력 예측 (Output Prediction): 각 그리드 셀은 다음 세 가지를 예측합니다:
 
     ◦ $B$개의 바운딩 박스 및 각 박스의 신뢰도(Confidence Score).
     ◦ $C$개의 조건부 클래스 확률 ($Pr(\text{Class}_i|\text{Object})$).
