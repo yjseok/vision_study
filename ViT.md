@@ -1,6 +1,6 @@
 1. Architecture (모델 구조)
 
-![image.png](attachment:124061ac-12c8-4f05-a72d-f37c5bf48cb9:image.png)
+<img width="740" height="481" alt="image" src="https://github.com/user-attachments/assets/b2b3bd06-fee7-4c51-bbe5-0d6210547fa9" />
 
 ### 1.1 기본 설계 원칙
 
