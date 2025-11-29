@@ -1,6 +1,7 @@
 - Swin-Unet - O
     
-    ![image.png](attachment:d8a474aa-bcb2-4b6a-8504-09e78d84e1de:image.png)
+    <img width="502" height="619" alt="스크린샷 2025-11-29 오후 5 30 08" src="https://github.com/user-attachments/assets/20ee13d8-2b45-4b0e-bfaf-c7d28cf46143" />
+
     
     ## 💡 Swin-Unet 개요
     
